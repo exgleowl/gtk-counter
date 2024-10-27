@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=counter
+Exec=counter
+Icon=io.github.exgleowl.Counter
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/io.github.exgleowl.Counter.desktop.in
+data/io.github.exgleowl.Counter.metainfo.xml.in
+data/io.github.exgleowl.Counter.gschema.xml
+src/main.vala
+src/window.vala
+src/window.ui
